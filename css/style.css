@@ -163,7 +163,7 @@ h1,h2,h3,h4,h5
 /* end simpletextrotator */
 
 /* start home */
-#nav{
+/* #nav{
     display: flex;
     justify-content: space-around;
     height: 100px;
@@ -189,7 +189,7 @@ h1,h2,h3,h4,h5
 
 #nav > h2 > ul :hover{
     color: #D43F52;
-}
+} */
 
 #home
 	{
